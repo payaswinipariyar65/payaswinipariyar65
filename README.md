@@ -1,4 +1,4 @@
-![logo](https://github.com/payaswinipariyar65/payaswinipariyar65/commit/8302010936f64dbe3ee10bc874f09b5d95e7bb00)
+![logo](https://github.com/payaswinipariyar65/payaswinipariyar65/blob/main/git%20profile.jpg)
 <h1 align="center">Hi 👋, I'm Payaswini pariyar</h1>
 <h3 align="center">A passionate fullstack developer from Nepal</h3>
 
